@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.exe
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.deps.json
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.runtimeconfig.json
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.dll
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.pdb
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.AssemblyInfo.cs
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.dll
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\refint\08.TrafficJam.dll
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.pdb
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.genruntimeconfig.cache
+E:\softuni\C# Advanced\StacksAndQues\08.TrafficJam\obj\Debug\net8.0\ref\08.TrafficJam.dll

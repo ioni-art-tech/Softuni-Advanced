@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\uni-zad\uni-zad\bin\Debug\net8.0\uni-zad.exe
+E:\softuni\C# Advanced\uni-zad\uni-zad\bin\Debug\net8.0\uni-zad.deps.json
+E:\softuni\C# Advanced\uni-zad\uni-zad\bin\Debug\net8.0\uni-zad.runtimeconfig.json
+E:\softuni\C# Advanced\uni-zad\uni-zad\bin\Debug\net8.0\uni-zad.dll
+E:\softuni\C# Advanced\uni-zad\uni-zad\bin\Debug\net8.0\uni-zad.pdb
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.AssemblyInfo.cs
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.dll
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\refint\uni-zad.dll
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.pdb
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\uni-zad.genruntimeconfig.cache
+E:\softuni\C# Advanced\uni-zad\uni-zad\obj\Debug\net8.0\ref\uni-zad.dll

@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\bin\Debug\net8.0\StackCalculator.exe
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\bin\Debug\net8.0\StackCalculator.deps.json
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\bin\Debug\net8.0\StackCalculator.runtimeconfig.json
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\bin\Debug\net8.0\StackCalculator.dll
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\bin\Debug\net8.0\StackCalculator.pdb
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.AssemblyInfo.cs
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.dll
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\refint\StackCalculator.dll
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.pdb
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\StackCalculator.genruntimeconfig.cache
+E:\softuni\C# Advanced\StacksAndQues\StackCalculator\obj\Debug\net8.0\ref\StackCalculator.dll

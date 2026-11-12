@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\bin\Debug\net8.0\01.exe
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\bin\Debug\net8.0\01.deps.json
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\bin\Debug\net8.0\01.runtimeconfig.json
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\bin\Debug\net8.0\01.dll
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\bin\Debug\net8.0\01.pdb
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.AssemblyInfo.cs
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.dll
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\refint\01.dll
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.pdb
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\01.genruntimeconfig.cache
+E:\softuni\C# Advanced\Stacks&Queues-Exercise\Stacks&Queues-Exercise\obj\Debug\net8.0\ref\01.dll

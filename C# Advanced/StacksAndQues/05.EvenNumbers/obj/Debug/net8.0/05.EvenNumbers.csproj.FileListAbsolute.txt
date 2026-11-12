@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\bin\Debug\net8.0\05.EvenNumbers.exe
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\bin\Debug\net8.0\05.EvenNumbers.deps.json
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\bin\Debug\net8.0\05.EvenNumbers.runtimeconfig.json
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\bin\Debug\net8.0\05.EvenNumbers.dll
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\bin\Debug\net8.0\05.EvenNumbers.pdb
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.AssemblyInfo.cs
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.dll
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\refint\05.EvenNumbers.dll
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.pdb
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\05.EvenNumbers.genruntimeconfig.cache
+E:\softuni\C# Advanced\StacksAndQues\05.EvenNumbers\obj\Debug\net8.0\ref\05.EvenNumbers.dll

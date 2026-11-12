@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\StacksAndQues\2zad\bin\Debug\net8.0\2zad.exe
+E:\softuni\C# Advanced\StacksAndQues\2zad\bin\Debug\net8.0\2zad.deps.json
+E:\softuni\C# Advanced\StacksAndQues\2zad\bin\Debug\net8.0\2zad.runtimeconfig.json
+E:\softuni\C# Advanced\StacksAndQues\2zad\bin\Debug\net8.0\2zad.dll
+E:\softuni\C# Advanced\StacksAndQues\2zad\bin\Debug\net8.0\2zad.pdb
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.AssemblyInfo.cs
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.dll
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\refint\2zad.dll
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.pdb
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\2zad.genruntimeconfig.cache
+E:\softuni\C# Advanced\StacksAndQues\2zad\obj\Debug\net8.0\ref\2zad.dll

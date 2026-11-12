@@ -1,0 +1,14 @@
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\bin\Debug\net8.0\07.HotPotato.exe
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\bin\Debug\net8.0\07.HotPotato.deps.json
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\bin\Debug\net8.0\07.HotPotato.runtimeconfig.json
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\bin\Debug\net8.0\07.HotPotato.dll
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\bin\Debug\net8.0\07.HotPotato.pdb
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.AssemblyInfoInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.AssemblyInfo.cs
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.csproj.CoreCompileInputs.cache
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.dll
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\refint\07.HotPotato.dll
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.pdb
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\07.HotPotato.genruntimeconfig.cache
+E:\softuni\C# Advanced\StacksAndQues\07.HotPotato\obj\Debug\net8.0\ref\07.HotPotato.dll
