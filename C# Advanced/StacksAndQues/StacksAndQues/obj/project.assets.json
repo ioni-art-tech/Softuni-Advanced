@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\softuni\\C# Advanced\\StacksAndQues\\StacksAndQues\\1zad.csproj",
+      "projectUniqueName": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StacksAndQues\\1zad.csproj",
       "projectName": "1zad",
-      "projectPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\StacksAndQues\\1zad.csproj",
+      "projectPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StacksAndQues\\1zad.csproj",
       "packagesPath": "C:\\Users\\joni\\.nuget\\packages\\",
-      "outputPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\StacksAndQues\\obj\\",
+      "outputPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StacksAndQues\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

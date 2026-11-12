@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\softuni\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj": {}
+    "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj": {}
   },
   "projects": {
-    "E:\\softuni\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj": {
+    "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\softuni\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj",
+        "projectUniqueName": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj",
         "projectName": "StackCalculator",
-        "projectPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj",
+        "projectPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StackCalculator\\StackCalculator.csproj",
         "packagesPath": "C:\\Users\\joni\\.nuget\\packages\\",
-        "outputPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\StackCalculator\\obj\\",
+        "outputPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\StackCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

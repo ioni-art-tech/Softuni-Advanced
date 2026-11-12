@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\softuni\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj": {}
+    "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj": {}
   },
   "projects": {
-    "E:\\softuni\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj": {
+    "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\softuni\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj",
+        "projectUniqueName": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj",
         "projectName": "08.TrafficJam",
-        "projectPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj",
+        "projectPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\08.TrafficJam\\08.TrafficJam.csproj",
         "packagesPath": "C:\\Users\\joni\\.nuget\\packages\\",
-        "outputPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\08.TrafficJam\\obj\\",
+        "outputPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\08.TrafficJam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

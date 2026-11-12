@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\softuni\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj": {}
+    "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj": {}
   },
   "projects": {
-    "E:\\softuni\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj": {
+    "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\softuni\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj",
+        "projectUniqueName": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj",
         "projectName": "07.HotPotato",
-        "projectPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj",
+        "projectPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\07.HotPotato\\07.HotPotato.csproj",
         "packagesPath": "C:\\Users\\joni\\.nuget\\packages\\",
-        "outputPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\07.HotPotato\\obj\\",
+        "outputPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\07.HotPotato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

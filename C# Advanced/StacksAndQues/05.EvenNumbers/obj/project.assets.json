@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\softuni\\C# Advanced\\StacksAndQues\\05.EvenNumbers\\05.EvenNumbers.csproj",
+      "projectUniqueName": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\05.EvenNumbers\\05.EvenNumbers.csproj",
       "projectName": "05.EvenNumbers",
-      "projectPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\05.EvenNumbers\\05.EvenNumbers.csproj",
+      "projectPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\05.EvenNumbers\\05.EvenNumbers.csproj",
       "packagesPath": "C:\\Users\\joni\\.nuget\\packages\\",
-      "outputPath": "E:\\softuni\\C# Advanced\\StacksAndQues\\05.EvenNumbers\\obj\\",
+      "outputPath": "E:\\softuni\\Softuni-Advanced\\C# Advanced\\StacksAndQues\\05.EvenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
